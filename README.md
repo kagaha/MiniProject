@@ -1,6 +1,6 @@
-# Emotion Detection in Text using Natural Language Processing
+# Emoji Detection in Text using Natural Language Processing
 
-<img src="./images/index.png"/>
+<img src="./images/home.png"/>
 
 <br>
 
