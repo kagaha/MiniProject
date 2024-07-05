@@ -1,6 +1,6 @@
 # Emoji Detection in Text using Natural Language Processing
 
-<img src="./images/home.png"/>
+<img src="./images/Home_page.jpg"/>
 
 <br>
 
